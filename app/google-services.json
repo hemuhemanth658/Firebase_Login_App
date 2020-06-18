@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085829674054",
+    "firebase_url": "https://codequest-c1c17.firebaseio.com",
+    "project_id": "codequest-c1c17",
+    "storage_bucket": "codequest-c1c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085829674054:android:7ffdd5bf8b5ba0d16dc647",
+        "android_client_info": {
+          "package_name": "com.example.mycodequestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085829674054-17cianbs60785uc95ko2vbkn35ha2rbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycodequestapp",
+            "certificate_hash": "c29a744e7809d35e43892fdf689f8d9fad62ea03"
+          }
+        },
+        {
+          "client_id": "1085829674054-hge9atosfbt0ei35rtrm5o8fc8h43j5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7iGIBBPQI3D7MVGDNOcaAgLzEuet6Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085829674054-hge9atosfbt0ei35rtrm5o8fc8h43j5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
